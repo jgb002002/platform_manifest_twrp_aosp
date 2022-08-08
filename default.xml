@@ -2,7 +2,7 @@
 <manifest>
 
     <remote name="aosp"
-            fetch="http://mirrors.ustc.edu.cn/aosp"
+            fetch="http://mirrors.ustc.edu.cn/aosp/git-repo.git/"
             review="http://mirrors.ustc.edu.cn/aosp/git-repo.git/"/>
     <default revision="refs/tags/android-11.0.0_r29"
              remote="aosp"
