@@ -3,7 +3,7 @@
 
   <remote  name="aosp"
            fetch="http://mirrors.ustc.edu.cn/aosp"
-           review="https://android-review.googlesource.com/" />
+           review="https://github.com/aosp-mirror/" />
   <default revision="refs/tags/android-12.1.0_r4"
            remote="aosp"
            sync-j="4" />
